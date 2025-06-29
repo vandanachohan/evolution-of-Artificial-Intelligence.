@@ -1,38 +1,49 @@
- 🧠 Evolution of Artificial Intelligence
-Explore the evolution of AI from 1950s theory to modern models like ChatGPT & Gemini — covering key milestones, technologies, and code examples.
+ # 🧠 Evolution of Artificial Intelligence
 
-📌 About This Repository
-This repository explores the fascinating evolution of Artificial Intelligence (AI) — from its early theoretical roots in the 1950s to today’s advanced generative models like ChatGPT, Gemini, and beyond.
+> A curated journey through the key eras of AI — from symbolic systems to Agentic AI.
 
-📂 What’s Inside
-🧠 Timeline of AI development (1950s to 2025+)
+## 📘 Overview
+This repository explores the fascinating **evolution of AI** from early theoretical roots to advanced models like **ChatGPT** and **Gemini**, including timelines, technologies, and paradigm shifts.
 
-🤖 Major breakthroughs in Machine Learning, Deep Learning, and Neural Networks
+---
 
-📚 Curated resources: articles, papers, videos, and research material
+## 📂 Contents
 
-📈 Infographics and visual charts representing AI growth
+- 🗂️ [PDF: AI Class Assignment](./docs/AI_Evolution_VandanaChohan.pdf)
+- 🧠 Timeline of key AI milestones (1950–2025)
+- 🤖 Rule-based → ML → DL → LLMs → Agentic AI
+- 🧾 Learning resources and references
+- 💬 Visual evolution chart (see below)
 
-🔬 Tools & frameworks used across AI eras
+---
 
-🗂️ Code examples from rule-based logic → ML → DL → LLMs
+## 🕰️ AI Timeline Graphic
 
-🎯 Ideal For
-Students & beginners exploring AI history
+![AI Timeline](./images/ai-history-timeline.png)
 
-Developers curious about AI model evolution
+*This timeline shows key transitions in the history of AI development.*
 
-Researchers & educators for quick historical references
+---
 
-Anyone interested in how AI transformed the world 🌎
+## 🎯 Who Is This For?
 
-🚀 Let’s understand how Artificial Intelligence went from a dream... to a revolution.
-## 🕰️ A Brief History of AI with Deep Learning
+- AI/ML students and beginners
+- Educators & researchers
+- Developers interested in AI progression
+- Anyone curious about how AI evolved
 
-![AI Evolution Timeline]
+---
 
-![image](https://github.com/user-attachments/assets/0e6926b0-a6bf-4879-9fc0-c6e65cc2010b)
+## 📚 References
 
-*This timeline shows the key milestones in the development of AI, from the 1943 Artificial Neuron to modern LLMs like ChatGPT.*
+- [OpenAI Research](https://openai.com/research)
+- [Stanford AI Timeline](https://ai.stanford.edu)
+- [GitHub: Learn Agentic AI](https://github.com/panaversity/learn-agentic-ai)
+
+---
+
+> 🌱 Feel free to fork, contribute, or use this as a study resource!
+
+
 
 
