@@ -19,7 +19,8 @@ This repository explores the fascinating **evolution of AI** from early theoreti
 
 ## 🕰️ AI Timeline Graphic
 
-![AI Timeline](![image](https://github.com/user-attachments/assets/20f16384-fb13-49ab-a5cf-f459be7c83c5)
+![AI Timeline]
+(![image](https://github.com/user-attachments/assets/20f16384-fb13-49ab-a5cf-f459be7c83c5)
 )
 
 *This timeline shows key transitions in the history of AI development.*
