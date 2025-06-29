@@ -29,7 +29,7 @@ Anyone interested in how AI transformed the world 🌎
 🚀 Let’s understand how Artificial Intelligence went from a dream... to a revolution.
 ## 🕰️ A Brief History of AI with Deep Learning
 
-![AI Evolution Timeline](./ai-history-timeline.png)
+![AI Evolution Timeline]
 
 ![image](https://github.com/user-attachments/assets/0e6926b0-a6bf-4879-9fc0-c6e65cc2010b)
 
